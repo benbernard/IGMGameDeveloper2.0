@@ -1,5 +1,5 @@
 Let's make a game!
-        -Game Developer
+        -Game Develope
         -by BurntCookie, some graphics by john4s13
         -created on ---
         -last updated on ---
