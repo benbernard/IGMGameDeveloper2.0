@@ -1038,7 +1038,7 @@ Buildings :
 	-unlocks win3
 	-named WIN THE GAME (hard)
 	*win3
-	-"Win the game (EXTREME!). Requires every 400 upgrade unlocked.
+	-"Win the game (very hard). Requires every 400 upgrade unlocked.
 	-costs 1e+33 code
 	-requires 400 codeWriter
 	-requires 400 object
@@ -1058,9 +1058,9 @@ Buildings :
 	-requires 400 finality
 	-locks win3
 	-unlocks win4
-	-named WIN THE GAME (extreme)
+	-named WIN THE GAME (very hard)
 	*win4
-	-"Win the game (legendary). Requires 500 of every building.
+	-"Win the game (extreme). Requires 500 of every building.
 	-costs 1e+40 code
 	-requires 500 codeWriter
 	-requires 500 object
@@ -1080,9 +1080,9 @@ Buildings :
 	-requires 500 finality
 	-locks win4
 	-unlocks win5
-	-named WIN THE GAME (legendary)
+	-named WIN THE GAME (extreme)
 	*win5
-	-"Win the game (IMPOSSIBLE!). Requires 600 of every building.
+	-"Win the game (uber extreme). Requires 600 of every building.
 	-costs 2.25e+44 code
 	-requires 600 codeWriter
 	-requires 600 object
@@ -1101,7 +1101,31 @@ Buildings :
 	-requires 600 maganiumGenerator
 	-requires 600 finality
 	-locks win5
-	-named WIN THE GAME (impossible)
+	-unlocks win6
+	-named WIN THE GAME (uber extreme)
+	*win6
+	-"Win the game (uber extreme). Requires 600 of every building.
+	-costs 2.25e+44 code
+	-requires 600 codeWriter
+	-requires 600 object
+	-requires 600 enemy
+	-requires 600 player
+	-requires 600 level
+	-requires 600 game
+	-requires 600 fanbase
+	-requires 600 forum
+	-requires 600 advertise
+	-requires 600 studio
+	-requires 600 magic
+	-requires 600 gameSeries
+	-requires 600 popularYoutuber
+	-requires 600 bonus
+	-requires 600 maganiumGenerator
+	-requires 600 finality
+	-locks win5
+	-unlocks win6
+	-named WIN THE GAME (uber extreme)
+	
 
 	*startGame
 	-"Starts the game. <br> <i> Let's make a game! </i>
