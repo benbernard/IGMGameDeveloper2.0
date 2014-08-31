@@ -993,6 +993,186 @@ Buildings :
         -named Overtake Ascended Mario Type Alpha
         -locks overtake50
 	-picture : http://i.imgur.com/5GwaUfT.png
+	        *overtake51
+        -"Overtake Ascended Final Fantasy Type Beta in popularity. <br><i></i>"
+        -costs 444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 1010101010101010101010101010101010101010101010101010101010101010 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Final Fantasy Type Beta
+        -locks overtake51
+	-unlocks overtake52
+	-picture : http://i.imgur.com/iO7SqdO.png
+        *overtake52
+        -"Overtake Ascended Call of Duty Type Beta in popularity. <br><i></i>"
+        -costs 4444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 10101010101010101010101010101010101010101010101010101010101010101 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Call of Duty Type Beta
+        -locks overtake52
+	-unlocks overtake53
+	-picture : http://i.imgur.com/7vFhN4N.png
+        *overtake53
+        -"Overtake Ascended Tetris Type Beta in popularity. <br><i></i>"
+        -costs 44444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 101010101010101010101010101010101010101010101010101010101010101010 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Tetris Type Beta
+        -locks overtake53
+	-unlocks overtake54
+	-picture : http://i.imgur.com/kdiPb7e.png
+        *overtake54
+        -"Overtake Ascended Sonic Type Beta in popularity. <br><i></i>"
+        -costs 444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 1010101010101010101010101010101010101010101010101010101010101010101 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Sonic Type Beta
+        -locks overtake54
+	-unlocks overtake55
+	-picture : http://i.imgur.com/CGFypIu.png
+        *overtake55
+        -"Overtake Ascended Need for Speed Type Beta in popularity. <br><i></i>"
+        -costs 4444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 10101010101010101010101010101010101010101010101010101010101010101010 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Need for Speed Type Beta
+        -locks overtake55
+	-unlocks overtake56
+	-picture : http://i.imgur.com/ojmzBAE.png
+        *overtake56
+        -"Overtake Ascended Grand Theft Auto Type Beta in popularity. <br><i></i>"
+        -costs 44444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 101010101010101010101010101010101010101010101010101010101010101010101 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended GTA Type Beta
+        -locks overtake56
+	-unlocks overtake57
+	-picture : http://i.imgur.com/BdmvSpu.png
+	*overtake57
+        -"Overtake Ascended The Sims Type Beta in popularity. <br><i></i>"
+        -costs 444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 1010101010101010101010101010101010101010101010101010101010101010101010 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended The Sims Type Beta
+        -locks overtake57
+	-unlocks overtake58
+	-picture : http://i.imgur.com/Xw12Bjm.png
+	*overtake58
+        -"Overtake Ascended Wii Type Beta in popularity. <br><i></i>"
+        -costs 4444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 10101010101010101010101010101010101010101010101010101010101010101010101 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Wii Type Beta
+        -locks overtake58
+	-unlocks overtake59
+	-picture : http://i.imgur.com/M3SJ07k.png
+	*overtake59
+        -"Overtake Ascended Pokémon Type Beta in popularity. <br><i></i>"
+        -costs 44444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 101010101010101010101010101010101010101010101010101010101010101010101010 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Pokémon Type Beta
+        -locks overtake59
+	-unlocks overtake60
+	-picture : http://i.imgur.com/R9PHE61.png
+	*overtake60
+        -"Overtake Ascended Mario Type Beta in popularity. <br><i></i>"
+        -costs 444444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 1010101010101010101010101010101010101010101010101010101010101010101010101 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Mario Type Beta
+        -locks overtake60
+	-unlocks overtake61
+	-picture : http://i.imgur.com/5GwaUfT.png
+        *overtake61
+        -"Overtake Ascended Final Fantasy Type Gamma in popularity. <br><i></i>"
+        -costs 4444444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 10101010101010101010101010101010101010101010101010101010101010101010101010 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Final Fantasy Type Gamma
+        -locks overtake61
+	-unlocks overtake62
+	-picture : http://i.imgur.com/iO7SqdO.png
+        *overtake62
+        -"Overtake Ascended Call of Duty Type Gamma in popularity. <br><i></i>"
+        -costs 44444444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 101010101010101010101010101010101010101010101010101010101010101010101010101 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Call of Duty Type Gamma
+        -locks overtake62
+	-unlocks overtake63
+	-picture : http://i.imgur.com/7vFhN4N.png
+        *overtake63
+        -"Overtake Ascended Tetris Type Gamma in popularity. <br><i></i>"
+        -costs 444444444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 1010101010101010101010101010101010101010101010101010101010101010101010101010 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Tetris Type Gamma
+        -locks overtake63
+	-unlocks overtake64
+	-picture : http://i.imgur.com/kdiPb7e.png
+        *overtake64
+        -"Overtake Ascended Sonic Type Gamma in popularity. <br><i></i>"
+        -costs 4444444444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 10101010101010101010101010101010101010101010101010101010101010101010101010101 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Sonic Type Gamma
+        -locks overtake64
+	-unlocks overtake65
+	-picture : http://i.imgur.com/CGFypIu.png
+        *overtake65
+        -"Overtake Ascended Need for Speed Type Gamma in popularity. <br><i></i>"
+        -costs 44444444444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 101010101010101010101010101010101010101010101010101010101010101010101010101010 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Need for Speed Type Gamma
+        -locks overtake65
+	-unlocks overtake66
+	-picture : http://i.imgur.com/ojmzBAE.png
+        *overtake66
+        -"Overtake Ascended Grand Theft Auto Type Gamma in popularity. <br><i></i>"
+        -costs 444444444444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 1010101010101010101010101010101010101010101010101010101010101010101010101010101 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended GTA Type Gamma
+        -locks overtake66
+	-unlocks overtake67
+	-picture : http://i.imgur.com/BdmvSpu.png
+	*overtake67
+        -"Overtake Ascended The Sims Type Gamma in popularity. <br><i></i>"
+        -costs 4444444444444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 10101010101010101010101010101010101010101010101010101010101010101010101010101010 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended The Sims Type Gamma
+        -locks overtake67
+	-unlocks overtake68
+	-picture : http://i.imgur.com/Xw12Bjm.png
+	*overtake68
+        -"Overtake Ascended Wii Type Gamma in popularity. <br><i></i>"
+        -costs 44444444444444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 101010101010101010101010101010101010101010101010101010101010101010101010101010101 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Wii Type Gamma
+        -locks overtake68
+	-unlocks overtake69
+	-picture : http://i.imgur.com/M3SJ07k.png
+	*overtake69
+        -"Overtake Ascended Pokémon Type Gamma in popularity. <br><i></i>"
+        -costs 444444444444444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 1010101010101010101010101010101010101010101010101010101010101010101010101010101010 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Pokémon Type Gamma
+        -locks overtake69
+	-unlocks overtake70
+	-picture : http://i.imgur.com/R9PHE61.png
+	*overtake70
+        -"Overtake Ascended Mario Type Gamma in popularity. <br><i></i>"
+        -costs 4444444444444444444444444444444444444444444444444444444444444444444444444444444444444 totalCode
+        -gives 1010101010101010101010101010101010101010101010101010101010101010101010101 code when bought
+        -gives 1 popularity when bought
+        -named Overtake Ascended Mario Type Gamma
+        -locks overtake70
+	-unlocks overtake71
+	-picture : http://i.imgur.com/5GwaUfT.png
 	*win
 	-"Win the game (easy). Requires every 200 upgrade unlocked.
 	-costs 1e+27 code
@@ -1104,26 +1284,26 @@ Buildings :
 	-unlocks win6
 	-named WIN THE GAME (uber extreme)
 	*win6
-	-"Win the game (uber extreme). Requires 600 of every building.
-	-costs 2.25e+44 code
-	-requires 600 codeWriter
-	-requires 600 object
-	-requires 600 enemy
-	-requires 600 player
-	-requires 600 level
-	-requires 600 game
-	-requires 600 fanbase
-	-requires 600 forum
-	-requires 600 advertise
-	-requires 600 studio
-	-requires 600 magic
-	-requires 600 gameSeries
-	-requires 600 popularYoutuber
-	-requires 600 bonus
-	-requires 600 maganiumGenerator
-	-requires 600 finality
-	-locks win5
-	-unlocks win6
+	-"Win the game (uber extreme). Requires 700 of every building.
+	-costs 1e+49 code
+	-requires 700 codeWriter
+	-requires 700 object
+	-requires 700 enemy
+	-requires 700 player
+	-requires 700 level
+	-requires 700 game
+	-requires 700 fanbase
+	-requires 700 forum
+	-requires 700 advertise
+	-requires 700 studio
+	-requires 700 magic
+	-requires 700 gameSeries
+	-requires 700 popularYoutuber
+	-requires 700 bonus
+	-requires 700 maganiumGenerator
+	-requires 700 finality
+	-locks win6
+	-unlocks win7
 	-named WIN THE GAME (uber extreme)
 	
 
