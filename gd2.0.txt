@@ -445,6 +445,26 @@ Clickables :
 	-locks overtake48
 	-locks overtake49
 	-locks overtake50
+	-converts overtake51 to nothing
+	-converts overtake52 to nothing
+	-converts overtake53 to nothing
+	-converts overtake54 to nothing
+	-converts overtake55 to nothing
+	-converts overtake56 to nothing
+	-converts overtake57 to nothing
+	-converts overtake58 to nothing
+	-converts overtake59 to nothing
+	-converts overtake60 to nothing
+	-converts overtake61 to nothing
+	-converts overtake62 to nothing
+	-converts overtake63 to nothing
+	-converts overtake64 to nothing
+	-converts overtake65 to nothing
+	-converts overtake66 to nothing
+	-converts overtake67 to nothing
+	-converts overtake68 to nothing
+	-converts overtake69 to nothing
+	-converts overtake70 to nothing
 	-locks alternateUniverseReset
 	-locks goldenBoxUnlock
 	-locks theBox1
@@ -1341,7 +1361,7 @@ Buildings :
 	-represents 1 buildings
         -named Object
         -visible
-	-picture : http://i.imgur.com/Qn6z91H.png
+	-picture : http://i.imgur.com/soAy44Z.png
  
         *enemy
         -"Gives <b>4</b> code per second.<br><i>An obstacle in your game to give it some difficulty.</i>
@@ -1387,7 +1407,7 @@ Buildings :
         -named Game
         -visible
 	-unlocks fanbase
-	-picture : http://i.imgur.com/SvDGQ2P.png
+	-picture : http://i.imgur.com/0TdiTef.png
 
         *gameProducer
         -"Gives <b>0.5</b> games per second.<br><i>This person makes games fast like a men.</i>
@@ -1395,7 +1415,7 @@ Buildings :
 	-gives 0.5 game2
         -named Game Producer
 	-represents 1 buildings
-	-picture : http://i.imgur.com/SvDGQ2P.png
+	-picture : http://i.imgur.com/4usmcO4.png
 
         *fanbase
         -"Gives <b>60,000</b> code per second.<br><i>Your game now has a fanbase. This fanbase will attract the attention of more people, resulting on more people playing.</i>
@@ -1406,7 +1426,7 @@ Buildings :
 	-unlocks forum
 	-represents 1 buildings
         -named Fanbase
-	-picture : http://i.imgur.com/xYzfOE2.png
+	-picture : http://i.imgur.com/lGyXtZ7.png
 
         *forum
         -"Gives <b>2,000,000</b> code per second.<br><i>An official forum for your game. People talk about your game, give tips and tricks and even release mods!</i>
@@ -1431,7 +1451,7 @@ Buildings :
 	-unlocks studio
 	-represents 1 buildings
         -named Advertisement
-	-picture : http://i.imgur.com/dVEXoTU.png
+	-picture : http://i.imgur.com/DyLWEx0.png
 
 	*highReviewer
 	-"Gives <b>1</b> positive review every ten seconds.<br><i>They frequently come and give us positive reviews, so that's good.</i>
@@ -1440,7 +1460,7 @@ Buildings :
 	-gives 0.1 positiveReview
 	-named Positive Reviewer
 	-represents 1 buildings
-	-picture : http://i.imgur.com/dVEXoTU.png
+	-picture : http://i.imgur.com/zm50EuS.png
 
         *studio
         -"Gives <b>500,000,000</b> code per second.<br><i>A game studio for your company. People are hired from around the world to help you create games.</i>
@@ -1451,7 +1471,7 @@ Buildings :
         -gives 500000000 studioWritten
 	-represents 1 buildings
         -named Game Studio
-	-picture : http://i.imgur.com/tXHDvcR.png
+	-picture : http://i.imgur.com/pEqMQEs.png
 
         *magic
         -"Gives <b>4,000,000,000</b> code and <b>1</b> magic point per second.<br><i>A magic code writer that produces code at immense speeds.</i>
@@ -1463,7 +1483,7 @@ Buildings :
 	-gives 1 magicPoint
 	-represents 1 buildings
         -named Magic Code Writer
-	-picture : http://i.imgur.com/ZGHQFCa.png
+	-picture : http://i.imgur.com/saGhIEc.png
 
 	*magicCore
 	-"This building makes ultra-magic generators <b>5%</b> more efficient. This building has a <b>1 in 50,000</b> chance every second of giving ultra-magic orbs, which make magic code writers <b>1%</b> more efficient. The more magic cores you have, the more ultra-magic orbs you get.<i><br>Magic Code Writers use orbs to enhance their spells.</i>
@@ -1511,7 +1531,7 @@ Buildings :
         -gives 800000000000 popularYoutuberWritten
 	-represents 1 buildings
         -named Popular YouTuber
-	-picture : http://i.imgur.com/V53hNyc.png
+	-picture : http://i.imgur.com/FNQq42J.png
 
         *finality
         -"Gives <b>6,412,825,651,200</b> code per second.<br><i>The Finality has arrived. The finality is a secret organisation that plans to dominate the world. As a bonus, it generates insane amounts of code. </i>
