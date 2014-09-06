@@ -1325,6 +1325,93 @@ Buildings :
 	-locks win6
 	-unlocks win7
 	-named WIN THE GAME (uber extreme)
+	*win7
+	-"Win the game (insane). Requires 800 of every building.
+	-costs 1e+53 code
+	-requires 800 codeWriter
+	-requires 800 object
+	-requires 800 enemy
+	-requires 800 player
+	-requires 800 level
+	-requires 800 game
+	-requires 800 fanbase
+	-requires 800 forum
+	-requires 800 advertise
+	-requires 800 studio
+	-requires 800 magic
+	-requires 800 gameSeries
+	-requires 800 popularYoutuber
+	-requires 800 bonus
+	-requires 800 maganiumGenerator
+	-requires 800 finality
+	-locks win7
+	-unlocks win8
+	-named WIN THE GAME (insane)
+	*win8
+	-"Win the game (legendary). Requires 900 of every building.
+	-costs 1e+57 code
+	-requires 900 codeWriter
+	-requires 900 object
+	-requires 900 enemy
+	-requires 900 player
+	-requires 900 level
+	-requires 900 game
+	-requires 900 fanbase
+	-requires 900 forum
+	-requires 900 advertise
+	-requires 900 studio
+	-requires 900 magic
+	-requires 900 gameSeries
+	-requires 900 popularYoutuber
+	-requires 900 bonus
+	-requires 900 maganiumGenerator
+	-requires 900 finality
+	-locks win8
+	-unlocks win9
+	-named WIN THE GAME (legendary)
+	*win9
+	-"Win the game (impossible?) Requires 1000 of every building.
+	-costs 1e+61 code
+	-requires 1000 codeWriter
+	-requires 1000 object
+	-requires 1000 enemy
+	-requires 1000 player
+	-requires 1000 level
+	-requires 1000 game
+	-requires 1000 fanbase
+	-requires 1000 forum
+	-requires 1000 advertise
+	-requires 1000 studio
+	-requires 1000 magic
+	-requires 1000 gameSeries
+	-requires 1000 popularYoutuber
+	-requires 1000 bonus
+	-requires 1000 maganiumGenerator
+	-requires 1000 finality
+	-locks win9
+	-unlocks win10
+	-named WIN THE GAME (impossible?)
+	*win10
+	-"Win the game (IMPOSSIBLE!) Requires 1200 of every building.
+	-costs 1e+69 code
+	-requires 1200 codeWriter
+	-requires 1200 object
+	-requires 1200 enemy
+	-requires 1200 player
+	-requires 1200 level
+	-requires 1200 game
+	-requires 1200 fanbase
+	-requires 1200 forum
+	-requires 1200 advertise
+	-requires 1200 studio
+	-requires 1200 magic
+	-requires 1200 gameSeries
+	-requires 1200 popularYoutuber
+	-requires 1200 bonus
+	-requires 1200 maganiumGenerator
+	-requires 1200 finality
+	-locks win10
+	-named WIN THE GAME (impossible!)
 	
 
 	*startGame
