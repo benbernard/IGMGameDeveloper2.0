@@ -11399,6 +11399,103 @@ Achievements:
 	-named Global Domination
 	-picture : http://i.imgur.com/ZQRn5AC.png
 
+
+	*bonusAchieve1
+	-"have <b>1</b> bonus."
+	-unlocks at 1 bonus
+	-named Bonus Points
+	-picture : 
+	*bonusAchieve2
+	-"have <b>10</b> bonuses."
+	-unlocks at 10 bonus
+	-named Starring...
+	-picture : 
+	*bonusAchieve3
+	-"have <b>40</b> bonuses."
+	-unlocks at 40 bonus
+	-named Lucky Star
+	-picture : 
+	*bonusAchieve4
+	-"have <b>100</b> bonuses."
+	-unlocks at 100 bonus
+	-named Gold Stars
+	-picture : 
+	*bonusAchieve5
+	-"have <b>150</b> bonuses."
+	-unlocks at 150 bonus
+	-named Rising Star
+	-picture : 
+	*bonusAchieve6
+	-"have <b>200</b> bonuses."
+	-unlocks at 200 bonus
+	-named Big Star
+	-picture : 
+	*bonusAchieve7
+	-"have <b>300</b> bonuses."
+	-unlocks at 300 bonus
+	-named Starshine
+	-picture : 
+	*bonusAchieve8
+	-"have <b>400</b> bonuses."
+	-unlocks at 400 bonus
+	-named Megabonus
+	-picture : 
+	*bonusAchieve9
+	-"have <b>500</b> bonuses."
+	-unlocks at 500 bonus
+	-named Fault in our Stars
+	-picture : 
+	*bonusAchieve10
+	-"have <b>600</b> bonuses."
+	-unlocks at 600 bonus
+	-named Gigabonus
+	-picture : 
+	*bonusAchieve11
+	-"have <b>700</b> bonuses."
+	-unlocks at 700 bonus
+	-named Night Sky
+	-picture : 
+	*bonusAchieve12
+	-"have <b>800</b> bonuses."
+	-unlocks at 800 bonus
+	-named Terabonus
+	-picture : 
+	*bonusAchieve13
+	-"have <b>900</b> bonuses."
+	-unlocks at 900 bonus
+	-named Shooting Star
+	-picture : 
+	*bonusAchieve14
+	-"have <b>1,000</b> bonuses."
+	-unlocks at 1000 bonus
+	-named Star of the North
+	-picture : 
+	*bonusAchieve15
+	-"have <b>1,200</b> bonuses."
+	-unlocks at 1200 bonus
+	-named Petabonus
+	-picture : 
+	*bonusAchieve16
+	-"have <b>1,400</b> bonuses. <br><i>Right before crossing the finish line.</i>"
+	-unlocks at 1400 bonus
+	-named Red shelled, starred and bullet billed
+	-picture : 
+	*bonusAchieve17
+	-"have <b>1,600</b> bonuses."
+	-unlocks at 1600 bonus
+	-named Star Spirits
+	-picture : 
+	*bonusAchieve18
+	-"have <b>1,800</b> bonuses."
+	-unlocks at 1800 bonus
+	-named Exabonus
+	-picture : 
+	*bonusAchieve19
+	-"have <b>2,000</b> bonuses."
+	-unlocks at 2000 bonus
+	-named May the stars shine down upon you
+	-picture : 
+
 	*everythingAchieve1
 	-"Have <b>one</b> of every building, up to studios.<br><i>Isn't that an achievement in Cookie Clicker? Such a copier...</i>
 	-unlocks at 1 codeWriter, 1 object, 1 enemy, 1 player, 1 level, 1 game, 1 fanbase, 1 forum, 1 advertise, 1 studio
