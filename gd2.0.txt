@@ -3678,6 +3678,7 @@ Upgrades :
 	-"Unlock the Stone of Time.<br><i> </i>
 	-costs 1e+33 code
 	-unlocks stone1
+	-unlocks at 1 overtake20
 	-named Time Stones
 	-multiplies efficiency of writeCode by 0.4% per stone1
 	-multiplies efficiency of codeWriter by 0.4% per stone1
@@ -3703,6 +3704,7 @@ Upgrades :
 	-"Unlock the Stone of Space.<br><i> </i>
 	-costs 1e+53 code
 	-unlocks stone2
+	-unlocks at 1 overtake40
 	-multiplies efficiency of writeCode by 1% per stone2
 	-multiplies efficiency of codeWriter by 1% per stone2
 	-multiplies efficiency of object by 1% per stone2
@@ -3724,10 +3726,11 @@ Upgrades :
 	-multiplies efficiency of magicPointBuilding by 1% per stone2
 	-named Space Stones
 	-picture : http://i.imgur.com/16ROFu4.png
-	*stoneUnlock1
+	*stoneUnlock3
 	-"Unlock the Synergy Stone.<br><i> </i>
 	-costs 1e+73 code
 	-unlocks stone3
+	-unlocks at 1 overtake60
 	-multiplies efficiency of writeCode by 2% per stone3
 	-multiplies efficiency of codeWriter by 2% per stone3
 	-multiplies efficiency of object by 2% per stone3
