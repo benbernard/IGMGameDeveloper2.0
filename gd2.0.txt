@@ -1795,7 +1795,7 @@ Upgrades :
 	-multiplies efficiency of finality by 103%
 	-multiplies efficiency of magicPointBuilding by 103%
 	-named Mysterious Book
-	-unlocks at 1 studio
+	-unlocks at 1 resets
 	-unlocks story2
 	-costs 1 positiveReview
 	-picture : http://i.imgur.com/E0Z3wV0.png
