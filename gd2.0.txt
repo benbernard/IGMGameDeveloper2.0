@@ -1628,11 +1628,11 @@ Buildings :
 	-picture : http://i.imgur.com/FNQq42J.png
 
         *finality
-        -"Gives <b>64,128,256,512,000</b> code per second.<br><i>The Finality has arrived. The finality is a secret organisation that plans to dominate the world. As a bonus, it generates insane amounts of code. </i>
+        -"Gives <b>32,641,282,565,120</b> code per second.<br><i>The Finality has arrived. The finality is a secret organisation that plans to dominate the world. As a bonus, it generates insane amounts of code. </i>
         -costs 1000000000000000000000 code
-        -gives 64128256512000 code
-        -gives 64128256512000 totalCode
-        -gives 64128256512000 finalityWritten
+        -gives 32641282565120 code
+        -gives 32641282565120 totalCode
+        -gives 32641282565120 finalityWritten
 	-represents 1 buildings
 	-unlocks at 10 popularity
         -named Finality
