@@ -3680,50 +3680,50 @@ Upgrades :
 	-unlocks stone1
 	-unlocks at 1 overtake20
 	-named Time Stones
-	-multiplies efficiency of writeCode by 0.4% per stone1
-	-multiplies efficiency of codeWriter by 0.4% per stone1
-	-multiplies efficiency of object by 0.4% per stone1
-	-multiplies efficiency of enemy by 0.4% per stone1
-	-multiplies efficiency of player by 0.4% per stone1
-	-multiplies efficiency of level by 0.4% per stone1
-	-multiplies efficiency of game by 0.4% per stone1
-	-multiplies efficiency of fanbase by 0.4% per stone1
-	-multiplies efficiency of forum by 0.4% per stone1
-	-multiplies efficiency of advertise by 0.4% per stone1
-	-multiplies efficiency of studio by 0.4% per stone1
-	-multiplies efficiency of magic by 0.4% per stone1
-	-multiplies efficiency of gameSeries by 0.4% per stone1
-	-multiplies efficiency of popularYoutuber by 0.4% per stone1
-	-multiplies efficiency of gameProducer by 0.4% per stone1
-	-multiplies efficiency of highReviewer by 0.4% per stone1
-	-multiplies efficiency of maganiumGenerator by 0.4% per stone1
-	-multiplies efficiency of finality by 0.4% per stone1
-	-multiplies efficiency of magicPointBuilding by 0.4% per stone1
+	-multiplies efficiency of writeCode by 0.2% per stone1
+	-multiplies efficiency of codeWriter by 0.2% per stone1
+	-multiplies efficiency of object by 0.2% per stone1
+	-multiplies efficiency of enemy by 0.2% per stone1
+	-multiplies efficiency of player by 0.2% per stone1
+	-multiplies efficiency of level by 0.2% per stone1
+	-multiplies efficiency of game by 0.2% per stone1
+	-multiplies efficiency of fanbase by 0.2% per stone1
+	-multiplies efficiency of forum by 0.2% per stone1
+	-multiplies efficiency of advertise by 0.2% per stone1
+	-multiplies efficiency of studio by 0.2% per stone1
+	-multiplies efficiency of magic by 0.2% per stone1
+	-multiplies efficiency of gameSeries by 0.2% per stone1
+	-multiplies efficiency of popularYoutuber by 0.2% per stone1
+	-multiplies efficiency of gameProducer by 0.2% per stone1
+	-multiplies efficiency of highReviewer by 0.2% per stone1
+	-multiplies efficiency of maganiumGenerator by 0.2% per stone1
+	-multiplies efficiency of finality by 0.2% per stone1
+	-multiplies efficiency of magicPointBuilding by 0.2% per stone1
 	-picture : http://i.imgur.com/GZ0HvtW.png
 	*stoneUnlock2
 	-"Unlock the Stone of Space.<br><i> </i>
 	-costs 1e+53 code
 	-unlocks stone2
 	-unlocks at 1 overtake40
-	-multiplies efficiency of writeCode by 1% per stone2
-	-multiplies efficiency of codeWriter by 1% per stone2
-	-multiplies efficiency of object by 1% per stone2
-	-multiplies efficiency of enemy by 1% per stone2
-	-multiplies efficiency of player by 1% per stone2
-	-multiplies efficiency of level by 1% per stone2
-	-multiplies efficiency of game by 1% per stone2
-	-multiplies efficiency of fanbase by 1% per stone2
-	-multiplies efficiency of forum by 1% per stone2
-	-multiplies efficiency of advertise by 1% per stone2
-	-multiplies efficiency of studio by 1% per stone2
-	-multiplies efficiency of magic by 1% per stone2
-	-multiplies efficiency of gameSeries by 1% per stone2
-	-multiplies efficiency of popularYoutuber by 1% per stone2
-	-multiplies efficiency of gameProducer by 1% per stone2
-	-multiplies efficiency of highReviewer by 1% per stone2
-	-multiplies efficiency of maganiumGenerator by 1% per stone2
-	-multiplies efficiency of finality by 1% per stone2
-	-multiplies efficiency of magicPointBuilding by 1% per stone2
+	-multiplies efficiency of writeCode by 0.4% per stone2
+	-multiplies efficiency of codeWriter by 0.4% per stone2
+	-multiplies efficiency of object by 0.4% per stone2
+	-multiplies efficiency of enemy by 0.4% per stone2
+	-multiplies efficiency of player by 0.4% per stone2
+	-multiplies efficiency of level by 0.4% per stone2
+	-multiplies efficiency of game by 0.4% per stone2
+	-multiplies efficiency of fanbase by 0.4% per stone2
+	-multiplies efficiency of forum by 0.4% per stone2
+	-multiplies efficiency of advertise by 0.4% per stone2
+	-multiplies efficiency of studio by 0.4% per stone2
+	-multiplies efficiency of magic by 0.4% per stone2
+	-multiplies efficiency of gameSeries by 0.4% per stone2
+	-multiplies efficiency of popularYoutuber by 0.4% per stone2
+	-multiplies efficiency of gameProducer by 0.4% per stone2
+	-multiplies efficiency of highReviewer by 0.4% per stone2
+	-multiplies efficiency of maganiumGenerator by 0.4% per stone2
+	-multiplies efficiency of finality by 0.4% per stone2
+	-multiplies efficiency of magicPointBuilding by 0.4% per stone2
 	-named Space Stones
 	-picture : http://i.imgur.com/16ROFu4.png
 	*stoneUnlock3
@@ -3731,27 +3731,25 @@ Upgrades :
 	-costs 1e+73 code
 	-unlocks stone3
 	-unlocks at 1 overtake60
-	-multiplies efficiency of writeCode by 2% per stone3
-	-multiplies efficiency of codeWriter by 2% per stone3
-	-multiplies efficiency of object by 2% per stone3
-	-multiplies efficiency of enemy by 2% per stone3
-	-multiplies efficiency of player by 2% per stone3
-	-multiplies efficiency of level by 2% per stone3
-	-multiplies efficiency of game by 2% per stone3
-	-multiplies efficiency of fanbase by 2% per stone3
-	-multiplies efficiency of forum by 2% per stone3
-	-multiplies efficiency of advertise by 2% per stone3
-	-multiplies efficiency of studio by 2% per stone3
-	-multiplies efficiency of magic by 2% per stone3
-	-multiplies efficiency of gameSeries by 2% per stone3
-	-multiplies efficiency of popularYoutuber by 2% per stone3
-	-multiplies efficiency of gameProducer by 2% per stone3
-	-multiplies efficiency of highReviewer by 2% per stone3
-	-multiplies efficiency of maganiumGenerator by 2% per stone3
-	-multiplies efficiency of finality by 2% per stone3
-	-multiplies efficiency of magicPointBuilding by 2% per stone3
-	-named Synergy Stones
-	-picture : http://i.imgur.com/8zEFcSq.png
+	-multiplies efficiency of writeCode by 1% per stone3
+	-multiplies efficiency of codeWriter by 1% per stone3
+	-multiplies efficiency of object by 1% per stone3
+	-multiplies efficiency of enemy by 1% per stone3
+	-multiplies efficiency of player by 1% per stone3
+	-multiplies efficiency of level by 1% per stone3
+	-multiplies efficiency of game by 1% per stone3
+	-multiplies efficiency of fanbase by 1% per stone3
+	-multiplies efficiency of forum by 1% per stone3
+	-multiplies efficiency of advertise by 1% per stone3
+	-multiplies efficiency of studio by 1% per stone3
+	-multiplies efficiency of magic by 1% per stone3
+	-multiplies efficiency of gameSeries by 1% per stone3
+	-multiplies efficiency of popularYoutuber by 1% per stone3
+	-multiplies efficiency of gameProducer by 1% per stone3
+	-multiplies efficiency of highReviewer by 1% per stone3
+	-multiplies efficiency of maganiumGenerator by 1% per stone3
+	-multiplies efficiency of finality by 1% per stone3
+	-multiplies efficiency of magicPointBuilding by 1% per stone3
 	*allTimeUpgrade1
 	-"Manual code writing is twice as efficient. <br><i>Some basic lessons on coding.</i>
 	-costs 100 code
