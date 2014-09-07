@@ -1664,21 +1664,21 @@ Buildings :
 	-price increases by 1000%
 	
 	*stone1
-	-"Makes everything <b>0.4%</b> more efficient.<i><br>A strange stone, found in a cave. It has a mysterious effect that makes everything more powerful.</i>
+	-"Makes everything <b>0.2%</b> more efficient.<i><br>A strange stone, found in a cave. It has a mysterious effect that makes everything more powerful.</i>
 	-costs 1e+30 code
 	-named Stone of Time
 	-represents 1 buildings
 	-picture : http://i.imgur.com/pDweRnc.png
 
 	*stone2
-	-"Makes everything <b>1%</b> more efficient.<i><br>Odd stones found in the galaxy. We can put them to use.</i>
+	-"Makes everything <b>0.4%</b> more efficient.<i><br>Odd stones found in the galaxy. We can put them to use.</i>
 	-costs 1e+50 code
 	-named Stone of Space
 	-represents 1 buildings
 	-picture : http://i.imgur.com/dmzd9TA.png
 
 	*stone3
-	-"Makes everything <b>2%</b> more efficient.<i><br>Combining the Stone of Time and the Stone of Space is very difficult.</i>
+	-"Makes everything <b>1%</b> more efficient.<i><br>Combining the Stone of Time and the Stone of Space is very difficult. However Synergy Stones are insanely powerful.</i>
 	-costs 1e+70 code
 	-named Synergy Stone
 	-represents 1 buildings
