@@ -743,7 +743,7 @@ Buildings :
         -named Overtake Ascended Mario
         -locks overtake20
 	-unlocks overtake21
-	-unlocks stone1
+	-unlocks stoneUnlock1
 	-picture : http://i.imgur.com/hhCgKXy.png
         *overtake21
         -"Overtake Final Fantasy EX in popularity. <br><i>We were wrong.</i>"
@@ -924,7 +924,7 @@ Buildings :
         -named Overtake Mario EX Ultra
         -locks overtake40
 	-unlocks overtake41
-	-unlocks stone2
+	-unlocks stoneUnlock2
 	-picture : http://i.imgur.com/yNpYuqN.png
         *overtake41
         -"Overtake Ascended Final Fantasy Type Alpha in popularity. <br><i>Here we go...</i>"
@@ -1104,7 +1104,7 @@ Buildings :
         -named Overtake Ascended Mario Type Beta
         -locks overtake60
 	-unlocks overtake61
-	-unlocks stone3
+	-unlocks stoneUnlock3
 	-picture : http://i.imgur.com/5GwaUfT.png
         *overtake61
         -"Overtake Ascended Final Fantasy Type Gamma in popularity. <br><i></i>"
@@ -1659,6 +1659,27 @@ Buildings :
 	-named Bread
 	-represents 1 buildings
 	-price increases by 1000%
+	
+	*stone1
+	-"Makes everything <b>0.4%</b> more efficient.<i><br>A strange stone, found in a cave. It has a mysterious effect that makes everything more powerful.</i>
+	-costs 1e+30 code
+	-named Stone of Time
+	-represents 1 buildings
+	-picture : http://i.imgur.com/pDweRnc.png
+
+	*stone2
+	-"Makes everything <b>1%</b> more efficient.<i><br>Odd stones found in the galaxy. We can put them to use.</i>
+	-costs 1e+50 code
+	-named Stone of Space
+	-represents 1 buildings
+	-picture : http://i.imgur.com/dmzd9TA.png
+
+	*stone3
+	-"Makes everything <b>2%</b> more efficient.<i><br>Combining the Stone of Time and the Stone of Space is very difficult.</i>
+	-costs 1e+70 code
+	-named Synergy Stone
+	-represents 1 buildings
+	-picture : http://i.imgur.com/V17pFnb.png
 
 	*research
 	-"Researches new upgrades!"
@@ -3649,6 +3670,43 @@ Upgrades :
 	-unlocks popularYoutuber
 	-named Popular YouTubers
 	-unlocks at 7 popularity
+	-picture : http://i.imgur.com/FFxM1vH.png
+	*stoneUnlock1
+	-"Unlock the Stone of Time.<br><i> </i>
+	-costs 1e+33 code
+	-unlocks stone1
+	-named Time Stones
+	-multiplies efficiency of writeCode by 3% per stone1
+	-multiplies efficiency of codeWriter by 3% per stone
+	-multiplies efficiency of object by 3% per stone1
+	-multiplies efficiency of enemy by 3% per stone1
+	-multiplies efficiency of player by 3% per stone1
+	-multiplies efficiency of level by 3% per stone1 theBread
+	-multiplies efficiency of game by 3% per stone1theBread
+	-multiplies efficiency of fanbase by 3% per theBread
+	-multiplies efficiency of forum by 3% per theBread
+	-multiplies efficiency of advertise by 3% per theBread
+	-multiplies efficiency of studio by 3% per theBread
+	-multiplies efficiency of magic by 3% per theBread
+	-multiplies efficiency of gameSeries by 3% per theBread
+	-multiplies efficiency of popularYoutuber by 3% per theBread
+	-multiplies efficiency of gameProducer by 3% per theBread
+	-multiplies efficiency of highReviewer by 3% per theBread
+	-multiplies efficiency of maganiumGenerator by 3% per theBread
+	-multiplies efficiency of finality by 3% per theBread
+	-multiplies efficiency of magicPointBuilding by 3% per theBread
+	-picture : http://i.imgur.com/FFxM1vH.png
+	*stoneUnlock2
+	-"Unlock the Stone of Space.<br><i> </i>
+	-costs 1e+53 code
+	-unlocks stone2
+	-named Space Stones
+	-picture : http://i.imgur.com/FFxM1vH.png
+	*stoneUnlock1
+	-"Unlock the Synergy Stone.<br><i> </i>
+	-costs 1e+73 code
+	-unlocks stone3
+	-named Synergy Stones
 	-picture : http://i.imgur.com/FFxM1vH.png
 	*allTimeUpgrade1
 	-"Manual code writing is twice as efficient. <br><i>Some basic lessons on coding.</i>
