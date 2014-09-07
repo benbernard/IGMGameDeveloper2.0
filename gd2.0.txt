@@ -1444,7 +1444,7 @@ Buildings :
 	-represents 1 buildings
         -named Code Writer
         -visible
-	-picture : http://i.imgur.com/LaGlp9W.png
+	-picture : http://i.imgur.com/q2brSfo.png
 
         *object
         -"Gives <b>1</b> code per second.<br><i>Platforms, houses, goals etc.</i>
@@ -1466,7 +1466,7 @@ Buildings :
 	-represents 1 buildings
         -named Enemy
         -visible
-	-picture : http://i.imgur.com/8uwW8Kq.png
+	-picture : http://i.imgur.com/dul6RbM.png
  
         *player
         -"Gives <b>25</b> code per second.<br><i>A controllable player in your game. The game's not much good without one!</i>
@@ -1488,7 +1488,7 @@ Buildings :
 	-represents 1 buildings
         -named Level
         -visible
-	-picture : http://i.imgur.com/kjJXpdv.png
+	-picture : http://i.imgur.com/tLr6c0S.png
 
         *game
         -"Gives <b>5,000</b> code per second.<br><i>You've now released a game! People are now playing and reviewing your games.</i>
@@ -1655,7 +1655,7 @@ Buildings :
 	-unlocks at 6 popularity
 	-represents 1 buildings
 	-price increases by 109%
-	-picture : http://i.imgur.com/iSDnz5r.png
+	-picture : http://i.imgur.com/PY8diwI.png
 
 	*theBread
 	-"Makes all other buildings more efficient.<i><br>Doesn't make sense, but who cares? It's a god-damn idle game!</i>
