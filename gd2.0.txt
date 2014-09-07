@@ -3,7 +3,7 @@ Let's make a game!
         -by BurntCookie, some graphics by john4s13
         -created on ---
         -last updated on ---
-        -version ---
+        -version --
  
 Settings :
         -prices increase by 111%
