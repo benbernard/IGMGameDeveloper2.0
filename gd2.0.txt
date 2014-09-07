@@ -743,6 +743,7 @@ Buildings :
         -named Overtake Ascended Mario
         -locks overtake20
 	-unlocks overtake21
+	-unlocks stone1
 	-picture : http://i.imgur.com/hhCgKXy.png
         *overtake21
         -"Overtake Final Fantasy EX in popularity. <br><i>We were wrong.</i>"
@@ -923,6 +924,7 @@ Buildings :
         -named Overtake Mario EX Ultra
         -locks overtake40
 	-unlocks overtake41
+	-unlocks stone2
 	-picture : http://i.imgur.com/yNpYuqN.png
         *overtake41
         -"Overtake Ascended Final Fantasy Type Alpha in popularity. <br><i>Here we go...</i>"
@@ -1102,6 +1104,7 @@ Buildings :
         -named Overtake Ascended Mario Type Beta
         -locks overtake60
 	-unlocks overtake61
+	-unlocks stone3
 	-picture : http://i.imgur.com/5GwaUfT.png
         *overtake61
         -"Overtake Ascended Final Fantasy Type Gamma in popularity. <br><i></i>"
@@ -1598,7 +1601,7 @@ Buildings :
 
         *maganiumGenerator
         -"Gives <b>200,000,000,000</b> code and <b>50</b> magic points per second.<br><i>An ultra-magic generator. Powered by magic. Generates ridiculous amounts of code.</i>
-        -costs 160000000000000 code
+        -costs 1600000000000000 code
 	-costs 50050 magicPoint
 	-gives 50 magicPoint
         -gives 200000000000 code
@@ -1611,7 +1614,7 @@ Buildings :
 
         *popularYoutuber
         -"Gives <b>800,000,000,000</b> code per second.<br><i>Popular YouTubers are now playing your game. </i>
-        -costs 90000000000000000 code
+        -costs 9000000000000000000 code
 	-costs 3 game2
         -gives 800000000000 code
         -gives 800000000000 totalCode
@@ -1621,11 +1624,11 @@ Buildings :
 	-picture : http://i.imgur.com/FNQq42J.png
 
         *finality
-        -"Gives <b>6,412,825,651,200</b> code per second.<br><i>The Finality has arrived. The finality is a secret organisation that plans to dominate the world. As a bonus, it generates insane amounts of code. </i>
-        -costs 1000000000000000000 code
-        -gives 6412825651200 code
-        -gives 6412825651200 totalCode
-        -gives 6412825651200 finalityWritten
+        -"Gives <b>64,128,256,512,000</b> code per second.<br><i>The Finality has arrived. The finality is a secret organisation that plans to dominate the world. As a bonus, it generates insane amounts of code. </i>
+        -costs 1000000000000000000000 code
+        -gives 64128256512000 code
+        -gives 64128256512000 totalCode
+        -gives 64128256512000 finalityWritten
 	-represents 1 buildings
 	-unlocks at 10 popularity
         -named Finality
@@ -9739,7 +9742,7 @@ Upgrades :
 	-multiplies efficiency of magicPointBuilding by 320%
 	-picture : http://i.imgur.com/9Dou0sL.png
 	*alternateUniverseReset41
-	-"Everything is twice efficient. <br><i>When we deactivated the barriers, there was another orb, resting on a pedestal.</i>
+	-"Everything is 3.4 times as efficient. <br><i>When we deactivated the barriers, there was another orb, resting on a pedestal.</i>
 	-costs 10000000000000000000000000000000000000 code
 	-costs 1000000000000000000000000000 game2
 	-costs 100000000000000000000000 positiveReview
@@ -9847,355 +9850,355 @@ Upgrades :
 	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/oSeITBx.png
 	*alternateUniverseReset45
-	-"Everything is 4.2 times as efficient. <br><i>e broke every other wall and found an orb.</i>
+	-"Everything is 4 times as efficient. <br><i>e broke every other wall and found an orb.</i>
 	-costs 100000000000000000000000000000000000000000 code
 	-costs 10000000000000000000000000000000 game2
 	-costs 1000000000000000000000000000 positiveReview
 	-named Ascension Type Lambda
 	-unlocks at 1000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 420%
-	-multiplies efficiency of codeWriter by 420%
-	-multiplies efficiency of object by 420%
-	-multiplies efficiency of enemy by 420%
-	-multiplies efficiency of player by 420%
-	-multiplies efficiency of level by 420%
-	-multiplies efficiency of game by 420%
-	-multiplies efficiency of fanbase by 420%
-	-multiplies efficiency of forum by 420%
-	-multiplies efficiency of advertise by 420%
-	-multiplies efficiency of studio by 420%
-	-multiplies efficiency of magic by 420%
-	-multiplies efficiency of gameSeries by 420%
-	-multiplies efficiency of popularYoutuber by 420%
-	-multiplies efficiency of gameProducer by 420%
-	-multiplies efficiency of highReviewer by 420%
-	-multiplies efficiency of maganiumGenerator by 420%
-	-multiplies efficiency of finality by 420%
-	-multiplies efficiency of magicPointBuilding by 420%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/rdvL4Wm.png
 	*alternateUniverseReset46
-	-"Everything is 4.4 times as efficient. <br><i>We went to another room, which was nearly destroyed. An orb was underneath some rubble.</i>
+	-"Everything is 4 times as efficient. <br><i>We went to another room, which was nearly destroyed. An orb was underneath some rubble.</i>
 	-costs 1000000000000000000000000000000000000000000 code
 	-costs 100000000000000000000000000000000 game2
 	-costs 10000000000000000000000000000 positiveReview
 	-named Ascension Type Mu
 	-unlocks at 10000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 440%
-	-multiplies efficiency of codeWriter by 440%
-	-multiplies efficiency of object by 440%
-	-multiplies efficiency of enemy by 440%
-	-multiplies efficiency of player by 440%
-	-multiplies efficiency of level by 440%
-	-multiplies efficiency of game by 440%
-	-multiplies efficiency of fanbase by 440%
-	-multiplies efficiency of forum by 440%
-	-multiplies efficiency of advertise by 440%
-	-multiplies efficiency of studio by 440%
-	-multiplies efficiency of magic by 440%
-	-multiplies efficiency of gameSeries by 440%
-	-multiplies efficiency of popularYoutuber by 440%
-	-multiplies efficiency of gameProducer by 440%
-	-multiplies efficiency of highReviewer by 440%
-	-multiplies efficiency of maganiumGenerator by 440%
-	-multiplies efficiency of finality by 440%
-	-multiplies efficiency of magicPointBuilding by 440%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/ADdTaqP.png
 	*alternateUniverseReset47
-	-"Everything is 4.6 times as efficient. <br><i>Another orb was hidden in the fireplace of another room.</i>
+	-"Everything is 4 times as efficient. <br><i>Another orb was hidden in the fireplace of another room.</i>
 	-costs 10000000000000000000000000000000000000000000 code
 	-costs 1000000000000000000000000000000000 game2
 	-costs 100000000000000000000000000000 positiveReview
 	-named Ascension Type Nu
 	-unlocks at 100000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 460%
-	-multiplies efficiency of codeWriter by 460%
-	-multiplies efficiency of object by 460%
-	-multiplies efficiency of enemy by 460%
-	-multiplies efficiency of player by 460%
-	-multiplies efficiency of level by 460%
-	-multiplies efficiency of game by 460%
-	-multiplies efficiency of fanbase by 460%
-	-multiplies efficiency of forum by 460%
-	-multiplies efficiency of advertise by 460%
-	-multiplies efficiency of studio by 460%
-	-multiplies efficiency of magic by 460%
-	-multiplies efficiency of gameSeries by 460%
-	-multiplies efficiency of popularYoutuber by 460%
-	-multiplies efficiency of gameProducer by 460%
-	-multiplies efficiency of highReviewer by 460%
-	-multiplies efficiency of maganiumGenerator by 460%
-	-multiplies efficiency of finality by 460%
-	-multiplies efficiency of magicPointBuilding by 460%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/85Xxt8N.png
 	*alternateUniverseReset48
-	-"Everything is 4.8 times as efficient. <br><i>There was a hidden passage in the fireplace. It led to the 14th orb of the castle.</i>
+	-"Everything is 4 times as efficient. <br><i>There was a hidden passage in the fireplace. It led to the 14th orb of the castle.</i>
 	-costs 100000000000000000000000000000000000000000000 code
 	-costs 10000000000000000000000000000000000 game2
 	-costs 1000000000000000000000000000000 positiveReview
 	-named Ascension Type Xi
 	-unlocks at 1000000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 480%
-	-multiplies efficiency of codeWriter by 480%
-	-multiplies efficiency of object by 480%
-	-multiplies efficiency of enemy by 480%
-	-multiplies efficiency of player by 480%
-	-multiplies efficiency of level by 480%
-	-multiplies efficiency of game by 480%
-	-multiplies efficiency of fanbase by 480%
-	-multiplies efficiency of forum by 480%
-	-multiplies efficiency of advertise by 480%
-	-multiplies efficiency of studio by 480%
-	-multiplies efficiency of magic by 480%
-	-multiplies efficiency of gameSeries by 480%
-	-multiplies efficiency of popularYoutuber by 480%
-	-multiplies efficiency of gameProducer by 480%
-	-multiplies efficiency of highReviewer by 480%
-	-multiplies efficiency of maganiumGenerator by 480%
-	-multiplies efficiency of finality by 480%
-	-multiplies efficiency of magicPointBuilding by 480%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/mUk2XvG.png
 	*alternateUniverseReset49
-	-"Everything is 5 times as efficient. <br><i>There were some towers. An orb was at the top of one tower.</i>
+	-"Everything is 4 times as efficient. <br><i>There were some towers. An orb was at the top of one tower.</i>
 	-costs 1000000000000000000000000000000000000000000000 code
 	-costs 100000000000000000000000000000000000 game2
 	-costs 10000000000000000000000000000000 positiveReview
 	-named Ascension Type Omicron
 	-unlocks at 10000000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 500%
-	-multiplies efficiency of codeWriter by 500%
-	-multiplies efficiency of object by 500%
-	-multiplies efficiency of enemy by 500%
-	-multiplies efficiency of player by 500%
-	-multiplies efficiency of level by 500%
-	-multiplies efficiency of game by 500%
-	-multiplies efficiency of fanbase by 500%
-	-multiplies efficiency of forum by 500%
-	-multiplies efficiency of advertise by 500%
-	-multiplies efficiency of studio by 500%
-	-multiplies efficiency of magic by 500%
-	-multiplies efficiency of gameSeries by 500%
-	-multiplies efficiency of popularYoutuber by 500%
-	-multiplies efficiency of gameProducer by 500%
-	-multiplies efficiency of highReviewer by 500%
-	-multiplies efficiency of maganiumGenerator by 500%
-	-multiplies efficiency of finality by 500%
-	-multiplies efficiency of magicPointBuilding by 500%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/OaQySax.png
 	*alternateUniverseReset50
-	-"Everything is 5.2 times as efficient. <br><i>We had to write down 1,000 digits of pi on the wall to get this one.</i>
+	-"Everything is 4 times as efficient. <br><i>We had to write down 1,000 digits of pi on the wall to get this one.</i>
 	-costs 10000000000000000000000000000000000000000000000 code
 	-costs 1000000000000000000000000000000000000 game2
 	-costs 100000000000000000000000000000000 positiveReview
 	-named Ascension Type Pi
 	-unlocks at 100000000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 520%
-	-multiplies efficiency of codeWriter by 520%
-	-multiplies efficiency of object by 520%
-	-multiplies efficiency of enemy by 520%
-	-multiplies efficiency of player by 520%
-	-multiplies efficiency of level by 520%
-	-multiplies efficiency of game by 520%
-	-multiplies efficiency of fanbase by 520%
-	-multiplies efficiency of forum by 520%
-	-multiplies efficiency of advertise by 520%
-	-multiplies efficiency of studio by 520%
-	-multiplies efficiency of magic by 520%
-	-multiplies efficiency of gameSeries by 520%
-	-multiplies efficiency of popularYoutuber by 520%
-	-multiplies efficiency of gameProducer by 520%
-	-multiplies efficiency of highReviewer by 520%
-	-multiplies efficiency of maganiumGenerator by 520%
-	-multiplies efficiency of finality by 520%
-	-multiplies efficiency of magicPointBuilding by 520%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/zrkKKlK.png
 	*alternateUniverseReset51
-	-"Everything is 5.4 times as efficient. <br><i>We went into a "super difficult dungeon". The first round of monsters was easy. This was the reward for winning.</i>
+	-"Everything is 4 times as efficient. <br><i>We went into a "super difficult dungeon". The first round of monsters was easy. This was the reward for winning.</i>
 	-costs 100000000000000000000000000000000000000000000000 code
 	-costs 10000000000000000000000000000000000000 game2
 	-costs 1000000000000000000000000000000000 positiveReview
 	-named Ascension Type Rho
 	-unlocks at 1000000000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 540%
-	-multiplies efficiency of codeWriter by 540%
-	-multiplies efficiency of object by 540%
-	-multiplies efficiency of enemy by 540%
-	-multiplies efficiency of player by 540%
-	-multiplies efficiency of level by 540%
-	-multiplies efficiency of game by 540%
-	-multiplies efficiency of fanbase by 540%
-	-multiplies efficiency of forum by 540%
-	-multiplies efficiency of advertise by 540%
-	-multiplies efficiency of studio by 540%
-	-multiplies efficiency of magic by 540%
-	-multiplies efficiency of gameSeries by 540%
-	-multiplies efficiency of popularYoutuber by 540%
-	-multiplies efficiency of gameProducer by 540%
-	-multiplies efficiency of highReviewer by 540%
-	-multiplies efficiency of maganiumGenerator by 540%
-	-multiplies efficiency of finality by 540%
-	-multiplies efficiency of magicPointBuilding by 540%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/ahdAE0W.png
 	*alternateUniverseReset52
-	-"Everything is 5.6 times as efficient. <br><i>The second round of monsters was a little harder. But, we dealt with it.</i>
+	-"Everything is 4 times as efficient. <br><i>The second round of monsters was a little harder. But, we dealt with it.</i>
 	-costs 1000000000000000000000000000000000000000000000000 code
 	-costs 100000000000000000000000000000000000000 game2
 	-costs 10000000000000000000000000000000000 positiveReview
 	-named Ascension Type Sigma
 	-unlocks at 10000000000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 560%
-	-multiplies efficiency of codeWriter by 560%
-	-multiplies efficiency of object by 560%
-	-multiplies efficiency of enemy by 560%
-	-multiplies efficiency of player by 560%
-	-multiplies efficiency of level by 560%
-	-multiplies efficiency of game by 560%
-	-multiplies efficiency of fanbase by 560%
-	-multiplies efficiency of forum by 560%
-	-multiplies efficiency of advertise by 560%
-	-multiplies efficiency of studio by 560%
-	-multiplies efficiency of magic by 560%
-	-multiplies efficiency of gameSeries by 560%
-	-multiplies efficiency of popularYoutuber by 560%
-	-multiplies efficiency of gameProducer by 560%
-	-multiplies efficiency of highReviewer by 560%
-	-multiplies efficiency of maganiumGenerator by 560%
-	-multiplies efficiency of finality by 560%
-	-multiplies efficiency of magicPointBuilding by 560%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/Y8llCNd.png
 	*alternateUniverseReset53
-	-"Everything is 5.8 times as efficient. <br><i>The final round was against godly monsters. We're halfway through the battle, and we got this.</i>
+	-"Everything is 4 times as efficient. <br><i>The final round was against godly monsters. We're halfway through the battle, and we got this.</i>
 	-costs 10000000000000000000000000000000000000000000000000 code
 	-costs 1000000000000000000000000000000000000000 game2
 	-costs 100000000000000000000000000000000000 positiveReview
 	-named Ascension Type Tau
 	-unlocks at 100000000000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 580%
-	-multiplies efficiency of codeWriter by 580%
-	-multiplies efficiency of object by 580%
-	-multiplies efficiency of enemy by 580%
-	-multiplies efficiency of player by 580%
-	-multiplies efficiency of level by 580%
-	-multiplies efficiency of game by 580%
-	-multiplies efficiency of fanbase by 580%
-	-multiplies efficiency of forum by 580%
-	-multiplies efficiency of advertise by 580%
-	-multiplies efficiency of studio by 580%
-	-multiplies efficiency of magic by 580%
-	-multiplies efficiency of gameSeries by 580%
-	-multiplies efficiency of popularYoutuber by 580%
-	-multiplies efficiency of gameProducer by 580%
-	-multiplies efficiency of highReviewer by 580%
-	-multiplies efficiency of maganiumGenerator by 580%
-	-multiplies efficiency of finality by 580%
-	-multiplies efficiency of magicPointBuilding by 580%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/xDoWC7n.png
 	*alternateUniverseReset54
-	-"Everything is 6 times as efficient. <br><i>At the end of the long battle, we were granted this ascension orb.</i>
+	-"Everything is 4 times as efficient. <br><i>At the end of the long battle, we were granted this ascension orb.</i>
 	-costs 100000000000000000000000000000000000000000000000000 code
 	-costs 10000000000000000000000000000000000000000 game2
 	-costs 1000000000000000000000000000000000000 positiveReview
 	-named Ascension Type Upsilon
 	-unlocks at 1000000000000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 600%
-	-multiplies efficiency of codeWriter by 600%
-	-multiplies efficiency of object by 600%
-	-multiplies efficiency of enemy by 600%
-	-multiplies efficiency of player by 600%
-	-multiplies efficiency of level by 600%
-	-multiplies efficiency of game by 600%
-	-multiplies efficiency of fanbase by 600%
-	-multiplies efficiency of forum by 600%
-	-multiplies efficiency of advertise by 600%
-	-multiplies efficiency of studio by 600%
-	-multiplies efficiency of magic by 600%
-	-multiplies efficiency of gameSeries by 600%
-	-multiplies efficiency of popularYoutuber by 600%
-	-multiplies efficiency of gameProducer by 600%
-	-multiplies efficiency of highReviewer by 600%
-	-multiplies efficiency of maganiumGenerator by 600%
-	-multiplies efficiency of finality by 600%
-	-multiplies efficiency of magicPointBuilding by 600%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/0mfkdUB.png
 	*alternateUniverseReset55
-	-"Everything is 6.25 times as efficient. <br><i>At the top of the Giant Tower, there was a portal and another orb.</i>
+	-"Everything is 4 times as efficient. <br><i>At the top of the Giant Tower, there was a portal and another orb.</i>
 	-costs 1000000000000000000000000000000000000000000000000000 code
 	-costs 100000000000000000000000000000000000000000 game2
 	-costs 10000000000000000000000000000000000000 positiveReview
 	-named Ascension Type Phi
 	-unlocks at 10000000000000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 625%
-	-multiplies efficiency of codeWriter by 625%
-	-multiplies efficiency of object by 625%
-	-multiplies efficiency of enemy by 625%
-	-multiplies efficiency of player by 625%
-	-multiplies efficiency of level by 625%
-	-multiplies efficiency of game by 625%
-	-multiplies efficiency of fanbase by 625%
-	-multiplies efficiency of forum by 625%
-	-multiplies efficiency of advertise by 625%
-	-multiplies efficiency of studio by 625%
-	-multiplies efficiency of magic by 625%
-	-multiplies efficiency of gameSeries by 625%
-	-multiplies efficiency of popularYoutuber by 625%
-	-multiplies efficiency of gameProducer by 625%
-	-multiplies efficiency of highReviewer by 625%
-	-multiplies efficiency of maganiumGenerator by 625%
-	-multiplies efficiency of finality by 625%
-	-multiplies efficiency of magicPointBuilding by 652%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/PL4Qg9z.png
 	*alternateUniverseReset56
-	-"Everything is 6.5 times as efficient. <br><i>The portal led to a Golden Temple. We went up a thousand steps to find the first orb there.<br><br>It is said that the three ascension orbs represented three different gods. The first one represented the Cookie...</i>
+	-"Everything is 4 times as efficient. <br><i>The portal led to a Golden Temple. We went up a thousand steps to find the first orb there.<br><br>It is said that the three ascension orbs represented three different gods. The first one represented the Cookie...</i>
 	-costs 10000000000000000000000000000000000000000000000000000 code
 	-costs 1000000000000000000000000000000000000000000 game2
 	-costs 100000000000000000000000000000000000000 positiveReview
 	-named Ascension Type Chi
 	-unlocks at 100000000000000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 650%
-	-multiplies efficiency of codeWriter by 650%
-	-multiplies efficiency of object by 650%
-	-multiplies efficiency of enemy by 650%
-	-multiplies efficiency of player by 650%
-	-multiplies efficiency of level by 650%
-	-multiplies efficiency of game by 650%
-	-multiplies efficiency of fanbase by 650%
-	-multiplies efficiency of forum by 650%
-	-multiplies efficiency of advertise by 650%
-	-multiplies efficiency of studio by 650%
-	-multiplies efficiency of magic by 650%
-	-multiplies efficiency of gameSeries by 650%
-	-multiplies efficiency of popularYoutuber by 650%
-	-multiplies efficiency of gameProducer by 650%
-	-multiplies efficiency of highReviewer by 650%
-	-multiplies efficiency of maganiumGenerator by 650%
-	-multiplies efficiency of finality by 650%
-	-multiplies efficiency of magicPointBuilding by 650%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/F9aiQUO.png
 	*alternateUniverseReset58
-	-"Everything is 6.75 times as efficient. <br><i>Eventually the steps stopped. We had to climb the slope to get to the ascension orb Psi.<br><br>...the second one represented "egg"...</i>
+	-"Everything is 4 times as efficient. <br><i>Eventually the steps stopped. We had to climb the slope to get to the ascension orb Psi.<br><br>...the second one represented "egg"...</i>
 	-costs 10000000000000000000000000000000000000000000000000000 code
 	-costs 1000000000000000000000000000000000000000000 game2
 	-costs 100000000000000000000000000000000000000 positiveReview
 	-named Ascension Type Psi
 	-unlocks at 100000000000000000000000000000000000 prestige
-	-multiplies efficiency of writeCode by 675%
-	-multiplies efficiency of codeWriter by 675%
-	-multiplies efficiency of object by 675%
-	-multiplies efficiency of enemy by 675%
-	-multiplies efficiency of player by 675%
-	-multiplies efficiency of level by 675%
-	-multiplies efficiency of game by 675%
-	-multiplies efficiency of fanbase by 675%
-	-multiplies efficiency of forum by 675%
-	-multiplies efficiency of advertise by 675%
-	-multiplies efficiency of studio by 675%
-	-multiplies efficiency of magic by 675%
-	-multiplies efficiency of gameSeries by 675%
-	-multiplies efficiency of popularYoutuber by 675%
-	-multiplies efficiency of gameProducer by 675%
-	-multiplies efficiency of highReviewer by 675%
-	-multiplies efficiency of maganiumGenerator by 675%
-	-multiplies efficiency of finality by 675%
-	-multiplies efficiency of magicPointBuilding by 675%
+	-multiplies efficiency of writeCode by 400%
+	-multiplies efficiency of codeWriter by 400%
+	-multiplies efficiency of object by 400%
+	-multiplies efficiency of enemy by 400%
+	-multiplies efficiency of player by 400%
+	-multiplies efficiency of level by 400%
+	-multiplies efficiency of game by 400%
+	-multiplies efficiency of fanbase by 400%
+	-multiplies efficiency of forum by 400%
+	-multiplies efficiency of advertise by 400%
+	-multiplies efficiency of studio by 400%
+	-multiplies efficiency of magic by 400%
+	-multiplies efficiency of gameSeries by 400%
+	-multiplies efficiency of popularYoutuber by 400%
+	-multiplies efficiency of gameProducer by 400%
+	-multiplies efficiency of highReviewer by 400%
+	-multiplies efficiency of maganiumGenerator by 400%
+	-multiplies efficiency of finality by 400%
+	-multiplies efficiency of magicPointBuilding by 400%
 	-picture : http://i.imgur.com/DsAAlvh.png
 	*alternateUniverseReset57
 	-"Everything is 7 times as efficient. <br><i>Eventually, it was just straight up. It took ages to climb (we needed a lot of ascension power), but, we did it! There was a giant room that seemed to be made of code, and there was the ascension orb. The last one. Time to go home.<br><br>And the final one represented the God of Code. The third was said to be the most powerful, and it possibly had an influence on Earth, and developing games.</i>
