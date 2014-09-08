@@ -1630,7 +1630,7 @@ Buildings :
 	*highReviewer
 	-"Gives <b>1</b> positive review every ten seconds.<br><i>They frequently come and give us positive reviews, so that's good.</i>
 	-costs 500000000000 code
-	-costs 2000 game2
+	-costs 2500 game2
 	-gives 0.1 positiveReview
 	-named Positive Reviewer
 	-represents 1 buildings
@@ -1639,7 +1639,7 @@ Buildings :
         *studio
         -"Gives <b>500,000,000</b> code per second.<br><i>A game studio for your company. People are hired from around the world to help you create games.</i>
         -costs 999999999999 code
-	-costs 8000 game2
+	-costs 1500 game2
         -gives 500000000 code
         -gives 500000000 totalCode
         -gives 500000000 studioWritten
