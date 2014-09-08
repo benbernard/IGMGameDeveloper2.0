@@ -1605,7 +1605,7 @@ Buildings :
         *forum
         -"Gives <b>2,000,000</b> code per second.<br><i>An official forum for your game. People talk about your game, give tips and tricks and even release mods!</i>
         -costs 3000000000 code
-	-costs 1 game2
+	-costs 6 game2
         -gives 2000000 code
         -gives 2000000 totalCode
         -gives 2000000 forumWritten
@@ -1617,7 +1617,7 @@ Buildings :
         *advertise
         -"Gives <b>30,000,000</b> code per second.<br><i>Advertisements for your game. More and more people are hearing about your games.</i>
         -costs 50000000000 code
-	-costs 2 game2
+	-costs 100 game2
         -gives 30000000 code
         -gives 30000000 totalCode
         -gives 30000000 advertiseWritten
@@ -1630,7 +1630,7 @@ Buildings :
 	*highReviewer
 	-"Gives <b>1</b> positive review every ten seconds.<br><i>They frequently come and give us positive reviews, so that's good.</i>
 	-costs 500000000000 code
-	-costs 3 game2
+	-costs 2000 game2
 	-gives 0.1 positiveReview
 	-named Positive Reviewer
 	-represents 1 buildings
@@ -1639,7 +1639,7 @@ Buildings :
         *studio
         -"Gives <b>500,000,000</b> code per second.<br><i>A game studio for your company. People are hired from around the world to help you create games.</i>
         -costs 999999999999 code
-	-costs 4 game2
+	-costs 8000 game2
         -gives 500000000 code
         -gives 500000000 totalCode
         -gives 500000000 studioWritten
@@ -1672,7 +1672,7 @@ Buildings :
         *gameSeries
         -"Gives <b>40,000,000,000</b> code per second.<br><i>A game series. This rapidly boosts popularity.</i>
         -costs 200000000000000 code
-	-costs 4 game2
+	-costs 25000 game2
         -gives 40000000000 code
         -gives 40000000000 totalCode
         -gives 40000000000 gameSeriesWritten
@@ -1686,7 +1686,7 @@ Buildings :
         *maganiumGenerator
         -"Gives <b>200,000,000,000</b> code and <b>50</b> magic points per second.<br><i>An ultra-magic generator. Powered by magic. Generates ridiculous amounts of code.</i>
         -costs 1600000000000000 code
-	-costs 50050 magicPoint
+	-costs 5005005 magicPoint
 	-gives 50 magicPoint
         -gives 200000000000 code
         -gives 200000000000 totalCode
@@ -1699,7 +1699,7 @@ Buildings :
         *popularYoutuber
         -"Gives <b>800,000,000,000</b> code per second.<br><i>Popular YouTubers are now playing your game. </i>
         -costs 9000000000000000000 code
-	-costs 3 game2
+	-costs 300000 game2
         -gives 800000000000 code
         -gives 800000000000 totalCode
         -gives 800000000000 popularYoutuberWritten
