@@ -1,6 +1,6 @@
 Let's make a game!
         -Game Developer
-        -by BurntCookie, some graphics by john4s13
+        -by BurntCookie
         -created on ---
         -last updated on ---
         -version --
@@ -1557,7 +1557,7 @@ Buildings :
 	-represents 1 buildings
         -named Player
         -visible
-	-picture : http://i.imgur.com/VzGLbuG.png
+	-picture : http://i.imgur.com/alSiEHx.png
  
         *level
         -"Gives <b>300</b> code per second.<br><i>Not the other type of level. A level in your game.</i>
@@ -1681,7 +1681,7 @@ Buildings :
 	-represents 1 buildings
         -named Game Series
         -unlocks at 3 popularity
-	-picture : http://i.imgur.com/hfZJtlQ.png
+	-picture : http://i.imgur.com/QpBn0Ml.png
 
         *maganiumGenerator
         -"Gives <b>200,000,000,000</b> code and <b>50</b> magic points per second.<br><i>An ultra-magic generator. Powered by magic. Generates ridiculous amounts of code.</i>
@@ -1694,7 +1694,7 @@ Buildings :
 	-represents 1 buildings
         -named Ultra-magic Generator
         -unlocks at 5 popularity
-	-picture : http://i.imgur.com/WBvzUPW.png
+	-picture : http://i.imgur.com/9HEJ2EG.png
 
         *popularYoutuber
         -"Gives <b>800,000,000,000</b> code per second.<br><i>Popular YouTubers are now playing your game. </i>
