@@ -10500,17 +10500,17 @@ Achievements:
 	-picture : http://i.imgur.com/yXYKOiS.png
 	*alltimeAchieve20
 	-"Win the game with 700 of everything. <br><i>"
-	-unlocks at 1 win5
-	-named Congraturation
+	-unlocks at 1 win6
+	-named Pure Win
 	-picture : http://i.imgur.com/yXYKOiS.png
 	*alltimeAchieve21
 	-"Win the game with 1,000 of everything. <br><i>"
-	-unlocks at 1 win6
+	-unlocks at 1 win9
 	-named Congraturation
 	-picture : http://i.imgur.com/yXYKOiS.png
 	*alltimeAchieve22
 	-"Win the game with 1,200 of everything. <br><i>"
-	-unlocks at 1 win7
+	-unlocks at 1 win10
 	-named Congraturation
 	-picture : http://i.imgur.com/yXYKOiS.png
 
