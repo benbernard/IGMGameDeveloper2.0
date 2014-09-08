@@ -1291,6 +1291,7 @@ Buildings :
 	-requires 200 finality
 	-locks win
 	-unlocks win2
+	-classed objective
 	-named WIN THE GAME (easy)
 	*win2
 	-"Win the game (hard). Requires every 300 upgrade unlocked.
@@ -1313,6 +1314,7 @@ Buildings :
 	-requires 300 finality
 	-locks win2
 	-unlocks win3
+	-classed objective
 	-named WIN THE GAME (hard)
 	*win3
 	-"Win the game (very hard). Requires every 400 upgrade unlocked.
@@ -1335,6 +1337,7 @@ Buildings :
 	-requires 400 finality
 	-locks win3
 	-unlocks win4
+	-classed objective
 	-named WIN THE GAME (very hard)
 	*win4
 	-"Win the game (extreme). Requires 500 of every building.
@@ -1357,6 +1360,7 @@ Buildings :
 	-requires 500 finality
 	-locks win4
 	-unlocks win5
+	-classed objective
 	-named WIN THE GAME (extreme)
 	*win5
 	-"Win the game (super extreme). Requires 600 of every building.
@@ -1379,6 +1383,7 @@ Buildings :
 	-requires 600 finality
 	-locks win5
 	-unlocks win6
+	-classed objective
 	-named WIN THE GAME (super extreme)
 	*win6
 	-"Win the game (uber extreme). Requires 700 of every building.
@@ -1399,6 +1404,7 @@ Buildings :
 	-requires 700 bonus
 	-requires 700 maganiumGenerator
 	-requires 700 finality
+	-classed objective
 	-locks win6
 	-unlocks win7
 	-named WIN THE GAME (uber extreme)
@@ -1423,6 +1429,7 @@ Buildings :
 	-requires 800 finality
 	-locks win7
 	-unlocks win8
+	-classed objective
 	-named WIN THE GAME (insane)
 	*win8
 	-"Win the game (legendary). Requires 900 of every building.
@@ -1445,6 +1452,7 @@ Buildings :
 	-requires 900 finality
 	-locks win8
 	-unlocks win9
+	-classed objective
 	-named WIN THE GAME (legendary)
 	*win9
 	-"Win the game (impossible?) Requires 1000 of every building.
@@ -1467,6 +1475,7 @@ Buildings :
 	-requires 1000 finality
 	-locks win9
 	-unlocks win10
+	-classed objective
 	-named WIN THE GAME (impossible?)
 	*win10
 	-"Win the game (IMPOSSIBLE!) Requires 1200 of every building.
@@ -1488,6 +1497,7 @@ Buildings :
 	-requires 1200 maganiumGenerator
 	-requires 1200 finality
 	-locks win10
+	-classed objective
 	-named WIN THE GAME (impossible!)
 	
 
@@ -10504,14 +10514,14 @@ Achievements:
 	-named Pure Win
 	-picture : http://i.imgur.com/yXYKOiS.png
 	*alltimeAchieve21
-	-"Win the game with 1,000 of everything. <br><i>"
+	-"Win the game with 1,000 of everything. <br><i>This is not a true end! Win the game with 1,200 of everything."
 	-unlocks at 1 win9
-	-named Congraturation
+	-named Bad End
 	-picture : http://i.imgur.com/yXYKOiS.png
 	*alltimeAchieve22
 	-"Win the game with 1,200 of everything. <br><i>"
 	-unlocks at 1 win10
-	-named Congraturation
+	-named Happy End!
 	-picture : http://i.imgur.com/yXYKOiS.png
 
 	*milestoneAchieve1
