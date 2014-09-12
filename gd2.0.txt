@@ -1667,7 +1667,7 @@ Buildings :
 	-named Magic Core
 	-represents 1 buildings
 	-price increases by 300%
-	-picture : http://i.imgur.com/15HUeHW.png
+	-picture : http://i.imgur.com/5Rmdb17.png
 
         *gameSeries
         -"Gives <b>40,000,000,000</b> code per second.<br><i>A game series. This rapidly boosts popularity.</i>
@@ -1743,6 +1743,7 @@ Buildings :
 	-named Bread
 	-represents 1 buildings
 	-price increases by 1000%
+        -picture : http://i.imgur.com/JCpbvcX.png
 	
 	*stone1
 	-"Makes everything <b>0.2%</b> more efficient.<i><br>A strange stone, found in a cave. It has a mysterious effect that makes everything more powerful.</i>
