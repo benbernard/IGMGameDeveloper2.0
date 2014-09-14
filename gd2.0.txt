@@ -445,6 +445,26 @@ Clickables :
 	-locks overtake48
 	-locks overtake49
 	-locks overtake50
+	-locks overtake51
+	-locks overtake52
+	-locks overtake53
+	-locks overtake54
+	-locks overtake55
+	-locks overtake56
+	-locks overtake57
+	-locks overtake58
+	-locks overtake59
+	-locks overtake60
+	-locks overtake61
+	-locks overtake62
+	-locks overtake63
+	-locks overtake64
+	-locks overtake65
+	-locks overtake66
+	-locks overtake67
+	-locks overtake68
+	-locks overtake69
+	-locks overtake70
 	-converts overtake51 to nothing
 	-converts overtake52 to nothing
 	-converts overtake53 to nothing
