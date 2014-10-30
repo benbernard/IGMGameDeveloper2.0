@@ -15,7 +15,7 @@ Settings :
         -achievements are hidden by default
         -show log
 	-custom stylesheet : http://pastebin.com/raw.php?i=tnc4Z5Cx
-        -text color : #00FF00
+        -text color : #FF4400
         -fonts : Kavoon
         -boxes : main (resources, clickables); stats (achievements); store (upgrades, buildings)
  
