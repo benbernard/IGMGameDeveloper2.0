@@ -1,6 +1,6 @@
 Let's make a game!
-        -Game Developer
-        -by BurntCookie
+        -this game is so ded
+        -by i am ded
         -created on ---
         -last updated on ---
         -version --
@@ -15,7 +15,7 @@ Settings :
         -achievements are hidden by default
         -show log
 	-custom stylesheet : http://pastebin.com/raw.php?i=tnc4Z5Cx
-        -text color : #FF4400
+        -text color : #00FF00
         -fonts : Kavoon
         -boxes : main (resources, clickables); stats (achievements); store (upgrades, buildings)
  
@@ -819,7 +819,7 @@ Buildings :
 	-classed objective
 	-picture : http://i.imgur.com/wjHHmQ1.png
         *overtake24
-        -"Overtake Sonic EX in popularity. <br><i>The funny thing is that there actually is a game called Sonic X, but this is Sonic EX.</i>"
+        -"Overtake Sonic EX in popularity. <br><i></i>"
         -costs 60606060606060606060606060606060606060 totalCode
         -gives 1010101010101010101010101010101010101 code when bought
         -gives 1 popularity when bought
@@ -2404,7 +2404,7 @@ Upgrades :
 	-gives 1 lel101
 	-picture : http://i.imgur.com/gZZcTLJ.png
 	*story21
-	-"Everything is <b>50%</b> more efficient.<br><i>After doing extensive research on Developer Bakanium, it was revealed that his original name was Johnson, before he received some kind of name change.<br><br> Further research shows that he came from a universe about destroying walls, and the other people were sick of Johnson so they used what's called a "Reality Compromiser" to change his name to Bakanium, (not very successfully) alter his brain, and send him to a random alternate universe, which happened to be this one.<br><br>After doing more research on how Bakanium acted in the world of destroying walls, we decided to use our own "Reality Compromiser" to banish him to another alternate universe, and he now has to spend the rest of his miserable life locked up in a cell.</i><br><br>
+	-"Everything is <b>50%</b> more efficient.<br><i>After doing extensive research on Developer Bakanium, it was revealed that his original name was Johnson, before he received some kind of name change.<br><br> Further research shows that he came from a universe about destroying walls, and the other people were sick of Johnson so they used what's called a "Reality Compromiser" to change his name to Bakanium, (not very successfully) alter his brain, and send him to a random alternate universe, which happened to be this one.<br><br>After doing more research on how Bakanium acted in the world of destroying walls, we decided to use our own "Reality Compromiser" to banish him to another alternate universe, and he now has to spend the rest of his miserable life locked up in a cell.<br><br>"laaaaaaaaame" -4chan anonymous</i><br><br>
 	-multiplies efficiency of writeCode by 150%
 	-multiplies efficiency of codeWriter by 150%
 	-multiplies efficiency of object by 150%
