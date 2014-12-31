@@ -168,6 +168,9 @@ Resources :
 
 	*prestige
 	-named godly lines of code
+
+	*stoneBuilding
+-abstract
  
  
 Clickables :
@@ -1687,6 +1690,7 @@ Buildings :
 	-named Magic Core
 	-represents 1 buildings
 	-price increases by 300%
+	-selling gives back 0%
 	-picture : http://i.imgur.com/5Rmdb17.png
 
         *gameSeries
@@ -1763,6 +1767,7 @@ Buildings :
 	-named Bread
 	-represents 1 buildings
 	-price increases by 1000%
+	-selling gives back 0%
         -picture : http://i.imgur.com/JCpbvcX.png
 	
 	*stone1
@@ -1770,6 +1775,7 @@ Buildings :
 	-costs 1e+30 code
 	-named Stone of Time
 	-represents 1 buildings
+	-represents 1 stoneBuilding
 	-picture : http://i.imgur.com/pDweRnc.png
 
 	*stone2
@@ -1777,6 +1783,7 @@ Buildings :
 	-costs 1e+50 code
 	-named Stone of Space
 	-represents 1 buildings
+	-represents 1 stoneBuilding
 	-picture : http://i.imgur.com/dmzd9TA.png
 
 	*stone3
@@ -1784,7 +1791,16 @@ Buildings :
 	-costs 1e+70 code
 	-named Synergy Stone
 	-represents 1 buildings
+	-represents 1 stoneBuilding
 	-picture : http://i.imgur.com/V17pFnb.png
+
+	*stone4
+	-"Makes everything <b>0.25%</b> more efficient per other stone owned.<i><br>Nothing is known about this stone.</i>
+	-costs 1e+90 code
+	-named Mystery Stone
+	-represents 1 buildings
+	-represents 1 stoneBuilding
+	-picture : http://i.imgur.com/pOKnsU6.png
 
 	*research
 	-"Researches new upgrades!"
@@ -3852,6 +3868,32 @@ Upgrades :
 	-multiplies efficiency of maganiumGenerator by 1% per stone3
 	-multiplies efficiency of finality by 1% per stone3
 	-multiplies efficiency of magicPointBuilding by 1% per stone3
+	-picture : http://i.imgur.com/c8FCuLQ.png
+	*stoneUnlock4
+	-"Unlock the Mystery Stone.<br><i> </i>
+	-costs 1e+93 code
+	-unlocks stone4
+	-unlocks at 1 overtake70
+	-multiplies efficiency of writeCode by 0.25% per stoneBuilding
+	-multiplies efficiency of codeWriter by  0.25% per stoneBuilding
+	-multiplies efficiency of object by  0.25% per stoneBuilding
+	-multiplies efficiency of enemy by  0.25% per stoneBuilding
+	-multiplies efficiency of player by  0.25% per stoneBuilding
+	-multiplies efficiency of level by  0.25% per stoneBuilding
+	-multiplies efficiency of game by  0.25% per stoneBuilding
+	-multiplies efficiency of fanbase by  0.25% per stoneBuilding
+	-multiplies efficiency of forum by  0.25% per stoneBuilding
+	-multiplies efficiency of advertise by  0.25% per stoneBuilding
+	-multiplies efficiency of studio by  0.25% per stoneBuilding
+	-multiplies efficiency of magic by  0.25% per stoneBuilding
+	-multiplies efficiency of gameSeries by  0.25% per stoneBuilding
+	-multiplies efficiency of popularYoutuber by  0.25% per stoneBuilding
+	-multiplies efficiency of gameProducer by  0.25% per stoneBuilding
+	-multiplies efficiency of highReviewer by  0.25% per stoneBuilding
+	-multiplies efficiency of maganiumGenerator by  0.25% per stoneBuilding
+	-multiplies efficiency of finality by  0.25% per stoneBuilding
+	-multiplies efficiency of magicPointBuilding by  0.25% per stoneBuilding
+	-picture : http://i.imgur.com/c8FCuLQ.png
 	*allTimeUpgrade1
 	-"Manual code writing is twice as efficient. <br><i>Some basic lessons on coding.</i>
 	-costs 100 code
