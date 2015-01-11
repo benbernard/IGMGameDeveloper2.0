@@ -4124,28 +4124,28 @@ Upgrades :
 	-unlocks at 11 popularity
 	-picture : http://i.imgur.com/JB8yyFG.png
 	*bogusUpgrade2
-	-"Unlocks bread. Everything is 3% more efficient for each bread you own. <br><i>Because the meaning of life is bread.<br><br>"I approve the this upgrade and its description." ~Developer Tofusaturn</i>
+	-"Unlocks bread. Everything is 4% more efficient for each bread you own. <br><i>Because the meaning of life is bread.<br><br>"I approve the this upgrade and its description." ~Developer Tofusaturn</i>
 	-costs 1e+23 code
 	-unlocks theBread
-	-multiplies efficiency of writeCode by 3% per theBread
-	-multiplies efficiency of codeWriter by 3% per theBread
-	-multiplies efficiency of object by 3% per theBread
-	-multiplies efficiency of enemy by 3% per theBread
-	-multiplies efficiency of player by 3% per theBread
-	-multiplies efficiency of level by 3% per theBread
-	-multiplies efficiency of game by 3% per theBread
-	-multiplies efficiency of fanbase by 3% per theBread
-	-multiplies efficiency of forum by 3% per theBread
-	-multiplies efficiency of advertise by 3% per theBread
-	-multiplies efficiency of studio by 3% per theBread
-	-multiplies efficiency of magic by 3% per theBread
-	-multiplies efficiency of gameSeries by 3% per theBread
-	-multiplies efficiency of popularYoutuber by 3% per theBread
-	-multiplies efficiency of gameProducer by 3% per theBread
-	-multiplies efficiency of highReviewer by 3% per theBread
-	-multiplies efficiency of maganiumGenerator by 3% per theBread
-	-multiplies efficiency of finality by 3% per theBread
-	-multiplies efficiency of magicPointBuilding by 3% per theBread
+	-multiplies efficiency of writeCode by 4% per theBread
+	-multiplies efficiency of codeWriter by 4% per theBread
+	-multiplies efficiency of object by 4% per theBread
+	-multiplies efficiency of enemy by 4% per theBread
+	-multiplies efficiency of player by 4% per theBread
+	-multiplies efficiency of level by 4% per theBread
+	-multiplies efficiency of game by 4% per theBread
+	-multiplies efficiency of fanbase by 4% per theBread
+	-multiplies efficiency of forum by 4% per theBread
+	-multiplies efficiency of advertise by 4% per theBread
+	-multiplies efficiency of studio by 4% per theBread
+	-multiplies efficiency of magic by 4% per theBread
+	-multiplies efficiency of gameSeries by 4% per theBread
+	-multiplies efficiency of popularYoutuber by 4% per theBread
+	-multiplies efficiency of gameProducer by 4% per theBread
+	-multiplies efficiency of highReviewer by 4% per theBread
+	-multiplies efficiency of maganiumGenerator by 4% per theBread
+	-multiplies efficiency of finality by 4% per theBread
+	-multiplies efficiency of magicPointBuilding by 4% per theBread
 	-named The Bread
 	-unlocks at 12 popularity
 	-picture : http://i.imgur.com/7I4066V.png
@@ -4221,28 +4221,28 @@ Upgrades :
 	-unlocks at 16 popularity
 	-picture : http://i.imgur.com/u0sNa3B.png
 	*bogusUpgrade7
-	-"Everything is 3% more efficient for each bread.  <br><i>thats it. im getting the bread.<br><br>"+4" ~Developer Tofusaturn</i>
+	-"Everything is 4% more efficient for each bread.  <br><i>thats it. im getting the bread.<br><br>"+4" ~Developer Tofusaturn</i>
 	-costs 1e+28 code
 	-named TFU's bread
-	-multiplies efficiency of writeCode by 3% per theBread
-	-multiplies efficiency of codeWriter by 3% per theBread
-	-multiplies efficiency of object by 3% per theBread
-	-multiplies efficiency of enemy by 3% per theBread
-	-multiplies efficiency of player by 3% per theBread
-	-multiplies efficiency of level by 3% per theBread
-	-multiplies efficiency of game by 3% per theBread
-	-multiplies efficiency of fanbase by 3% per theBread
-	-multiplies efficiency of forum by 3% per theBread
-	-multiplies efficiency of advertise by 3% per theBread
-	-multiplies efficiency of studio by 3% per theBread
-	-multiplies efficiency of magic by 3% per theBread
-	-multiplies efficiency of gameSeries by 3% per theBread
-	-multiplies efficiency of popularYoutuber by 3% per theBread
-	-multiplies efficiency of gameProducer by 3% per theBread
-	-multiplies efficiency of highReviewer by 3% per theBread
-	-multiplies efficiency of maganiumGenerator by 3% per theBread
-	-multiplies efficiency of finality by 3% per theBread
-	-multiplies efficiency of magicPointBuilding by 3% per theBread
+	-multiplies efficiency of writeCode by 4% per theBread
+	-multiplies efficiency of codeWriter by 4% per theBread
+	-multiplies efficiency of object by 4% per theBread
+	-multiplies efficiency of enemy by 4% per theBread
+	-multiplies efficiency of player by 4% per theBread
+	-multiplies efficiency of level by 4% per theBread
+	-multiplies efficiency of game by 4% per theBread
+	-multiplies efficiency of fanbase by 4% per theBread
+	-multiplies efficiency of forum by 4% per theBread
+	-multiplies efficiency of advertise by 4% per theBread
+	-multiplies efficiency of studio by 4% per theBread
+	-multiplies efficiency of magic by 4% per theBread
+	-multiplies efficiency of gameSeries by 4% per theBread
+	-multiplies efficiency of popularYoutuber by 4% per theBread
+	-multiplies efficiency of gameProducer by 4% per theBread
+	-multiplies efficiency of highReviewer by 4% per theBread
+	-multiplies efficiency of maganiumGenerator by 4% per theBread
+	-multiplies efficiency of finality by 4% per theBread
+	-multiplies efficiency of magicPointBuilding by 4% per theBread
 	-unlocks at 17 popularity
 	-picture : http://i.imgur.com/uVQcsZR.png
 	*bogusUpgrade8
@@ -4768,28 +4768,28 @@ Upgrades :
 	-multiplies efficiency of magicPointBuilding by 150%
 	-picture : http://i.imgur.com/8TXisgF.png
 	*bonusUpgrade32
-	-"Everything is 3% more efficient per bread.  <br><i>Combining bread and the number four had a really powerful effect.<br><br>"Best upgrade ever 4/4" ~Developer Tofusaturn</i>
+	-"Everything is 4% more efficient per bread.  <br><i>Combining bread and the number four had a really powerful effect.<br><br>"Best upgrade ever 4/4" ~Developer Tofusaturn</i>
 	-costs 1e+53 code
 	-named Bread-4 synergy
-	-multiplies efficiency of writeCode by 3% per theBread
-	-multiplies efficiency of codeWriter by 3% per theBread
-	-multiplies efficiency of object by 3% per theBread
-	-multiplies efficiency of enemy by 3% per theBread
-	-multiplies efficiency of player by 3% per theBread
-	-multiplies efficiency of level by 3% per theBread
-	-multiplies efficiency of game by 3% per theBread
-	-multiplies efficiency of fanbase by 3% per theBread
-	-multiplies efficiency of forum by 3% per theBread
-	-multiplies efficiency of advertise by 3% per theBread
-	-multiplies efficiency of studio by 3% per theBread
-	-multiplies efficiency of magic by 3% per theBread
-	-multiplies efficiency of gameSeries by 3% per theBread
-	-multiplies efficiency of popularYoutuber by 3% per theBread
-	-multiplies efficiency of gameProducer by 3% per theBread
-	-multiplies efficiency of highReviewer by 3% per theBread
-	-multiplies efficiency of maganiumGenerator by 3% per theBread
-	-multiplies efficiency of finality by 3% per theBread
-	-multiplies efficiency of magicPointBuilding by 3% per theBread
+	-multiplies efficiency of writeCode by 4% per theBread
+	-multiplies efficiency of codeWriter by 4% per theBread
+	-multiplies efficiency of object by 4% per theBread
+	-multiplies efficiency of enemy by 4% per theBread
+	-multiplies efficiency of player by 4% per theBread
+	-multiplies efficiency of level by 4% per theBread
+	-multiplies efficiency of game by 4% per theBread
+	-multiplies efficiency of fanbase by 4% per theBread
+	-multiplies efficiency of forum by 4% per theBread
+	-multiplies efficiency of advertise by 4% per theBread
+	-multiplies efficiency of studio by 4% per theBread
+	-multiplies efficiency of magic by 4% per theBread
+	-multiplies efficiency of gameSeries by 4% per theBread
+	-multiplies efficiency of popularYoutuber by 4% per theBread
+	-multiplies efficiency of gameProducer by 4% per theBread
+	-multiplies efficiency of highReviewer by 4% per theBread
+	-multiplies efficiency of maganiumGenerator by 4% per theBread
+	-multiplies efficiency of finality by 4% per theBread
+	-multiplies efficiency of magicPointBuilding by 4% per theBread
 	-unlocks at 42 popularity
 	-picture : http://i.imgur.com/tuWyQY4.png
 	*bonusUpgrade33
